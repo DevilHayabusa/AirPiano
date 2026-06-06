@@ -58,5 +58,4 @@ chmod +x play.sh
 - `ui.py`: Elementos de la interfaz de usuario y detección de colisiones.
 - `play.sh`: Script de arranque automático (configura FluidSynth y conexiones).
 
----
-Creado con 💻 por Gemini CLI
+
